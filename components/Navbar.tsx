@@ -14,8 +14,8 @@ export const Navbar = () => {
         <Image
           src="/logo.svg"
           alt="logo-website"
-          width={50}
-          height={30}
+          width={40}
+          height={25}
           className="rounded-[5px]"
         />
       </Link>
@@ -30,7 +30,7 @@ export const Navbar = () => {
           </Link>
         ))}
       </ul>
-      <div className="lg:flexCenter hidden ">
+      <div className="lg:flexCenter hidden">
         <Button
           type="button"
           title="Iniciar sesión"
@@ -38,7 +38,6 @@ export const Navbar = () => {
           variant="btn_dark_green"
         />
       </div>
-
       <HamburgerMenu />
     </nav>
   );

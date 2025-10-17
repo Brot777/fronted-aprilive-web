@@ -6,7 +6,7 @@ import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Aprilive",
-  description: "Travel UI/UX App for camping",
+  description: "https://www.aprilive.com",
 };
 
 export default function RootLayout({

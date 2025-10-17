@@ -17,7 +17,7 @@ const Hero = () => {
         /> */}
         <h1 className="bold-52 lg:bold-88">Encuentra el servicio que necesitas</h1>
         <p className="regular-16  my-6 text-gray-30 xl:max-w-[520px]">
-          Proximamente en android
+          Estamos trabajando en una herramienta para ti. Proximamente en android
         </p>
         {/* <div className="my-11 flex flex-wrap gap-5">
           <div className="flex items-center gap-2">

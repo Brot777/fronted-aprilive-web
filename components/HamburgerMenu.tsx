@@ -12,7 +12,7 @@ export const HamburgerMenu = () => {
     };
   
     return (
-      <div className="relative">
+      <div className="relative lg:hidden">
         {/* Ícono de hamburguesa visible en pantallas móviles */}
         <Image
           src="/menu.svg"
